@@ -1729,99 +1729,134 @@ class CfgMusic
 	class GVAR(Song_246)
 	{
 		name = "[Yepperzz] Blear Moon - Maples (Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\Blear Moon - Maples (Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Blear Moon - Maples (Ambience).ogg), 1, 1};
 		duration=277;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_247)
 	{
 		name = "[Yepperzz] Boards of Canada - Deep Time (Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\Boards of Canada - Deep Time (Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Boards of Canada - Deep Time (Ambience).ogg), 1, 1};
 		duration=198;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_248)
 	{
 		name = "[Yepperzz] Boards of Canada - Heard From Telegraph Lines (Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\Boards of Canada - Heard From Telegraph Lines (Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Boards of Canada - Heard From Telegraph Lines (Ambience).ogg), 1, 1};
 		duration=69;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_249)
 	{
 		name = "[Yepperzz] MOH 2010 - Tariq's Plea (Combat - 2 Minute Buildup)";
-		sound[] = {QPATHTOF(data\yepperzz\MOH 2010 - Tariq's Plea (Combat - 2 Minute Buildup).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\MOH 2010 - Tariq's Plea (Combat - 2 Minute Buildup).ogg), 1, 1};
 		duration=247;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_250)
 	{
 		name = "[Yepperzz] MOH Warfighter - For Mother (Somber Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - For Mother (Somber Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - For Mother (Somber Ambience).ogg), 1, 1};
 		duration=179;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_251)
 	{
 		name = "[Yepperzz] MOH Warfighter - Old Friend, New Foe (Tense)";
-		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - Old Friend, New Foe (Tense).ogg, 1, 1};
+		sound[] = {QPATHTOF(ARR_2_NOPADDING(data\yepperzz\MOH Warfighter - Old Friend, New Foe (Tense).ogg)), 1, 1};
 		duration=176;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_252)
 	{
 		name = "[Yepperzz] MOH Warfighter - Resolve (Tense Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - Resolve (Tense Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - Resolve (Tense Ambience).ogg), 1, 1};
 		duration=155;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_253)
 	{
 		name = "[Yepperzz] MOH Warfighter - Victory At Sea (Combat)";
-		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - Victory At Sea (Combat).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - Victory At Sea (Combat).ogg), 1, 1};
 		duration=182;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_254)
 	{
 		name = "[Yepperzz] Spec Ops The Line - Burning Courtyard (Tense Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - Burning Courtyard (Tense Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - Burning Courtyard (Tense Ambience).ogg), 1, 1};
 		duration=79;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_255)
 	{
 		name = "[Yepperzz] Spec Ops The Line - Get To The Choppa! (Combat)";
-		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - Get To The Choppa! (Combat).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - Get To The Choppa! (Combat).ogg), 1, 1};
 		duration=140;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_256)
 	{
 		name = "[Yepperzz] Spec Ops The Line - Signs Of The Revolution (Tense Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - Signs Of The Revolution (Tense Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - Signs Of The Revolution (Tense Ambience).ogg), 1, 1};
 		duration=89;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_257)
 	{
 		name = "[Yepperzz] Spec Ops The Line - The Decision(Tense Ambience)";
-		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - The Decision(Tense Ambience).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - The Decision(Tense Ambience).ogg), 1, 1};
 		duration=83;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_258)
 	{
 		name = "[Yepperzz] Spec Ops The Line - The Looters (Combat)";
-		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - The Looters (Combat).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - The Looters (Combat).ogg), 1, 1};
 		duration=171;
 		musicClass = QGVAR(Yepperzz);
 	};
 	class GVAR(Song_259)
 	{
 		name = "[Yepperzz] Spec Ops The Line - The Storm Fight (Combat)";
-		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - The Storm Fight (Combat).ogg, 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\Spec Ops The Line - The Storm Fight (Combat).ogg), 1, 1};
 		duration=109;
 		musicClass = QGVAR(Yepperzz);
+	};
+	class GVAR(Song_260)
+	{
+		name = "[Plaquer] Battle Hymn of the Republic";
+		sound[] = {QPATHTOF(data\plaquer\Battle Hymn of the Republic.ogg), 1, 1};
+		duration=318;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_261)
+	{
+		name = "[Plaquer] On the Road (Assault, Instrumental)";
+		sound[] = {QPATHTOF(ARR_2_NOPADDING(data\plaquer\On the Road (Assault, Instrumental).ogg)), 1, 1};
+		duration=473;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_262)
+	{
+		name = "[Plaquer] Outlaws from the West";
+		sound[] = {QPATHTOF(data\plaquer\Outlaws from the West.ogg), 1, 1};
+		duration=296;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_263)
+	{
+		name = "[Plaquer] Too Old to Die Young";
+		sound[] = {QPATHTOF(data\plaquer\Too Old to Die Young.ogg), 1, 1};
+		duration=221;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_264)
+	{
+		name = "[Plaquer] When Johnny Comes Marching Home (Instrumental)";
+		sound[] = {QPATHTOF(data\plaquer\When Johnny Comes Marching Home (Instrumental).ogg), 1, 1};
+		duration=181;
+		musicClass = QGVAR(Plaquer);
 	};
 };
