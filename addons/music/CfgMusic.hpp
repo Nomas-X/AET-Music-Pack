@@ -1859,4 +1859,18 @@ class CfgMusic
 		duration=181;
 		musicClass = QGVAR(Plaquer);
 	};
+	class GVAR(Song_265)
+	{
+		name = "[Plaquer] Double Cross 2017 (Assault)";
+		sound[] = {QPATHTOF(data\plaquer\Double Cross 2017 (Assault).ogg), 1, 1};
+		duration=350;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_266)
+	{
+		name = "[Plaquer] Left in the Cold (Anticipation and Assault)";
+		sound[] = {QPATHTOF(data\plaquer\Left in the Cold (Anticipation and Assault).ogg), 1, 1};
+		duration=365;
+		musicClass = QGVAR(Plaquer);
+	};
 };
