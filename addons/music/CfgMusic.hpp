@@ -1764,7 +1764,7 @@ class CfgMusic
 	class GVAR(Song_251)
 	{
 		name = "[Yepperzz] MOH Warfighter - Old Friend, New Foe (Tense)";
-		sound[] = {QPATHTOF(ARR_2_NOPADDING(data\yepperzz\MOH Warfighter - Old Friend, New Foe (Tense).ogg)), 1, 1};
+		sound[] = {QPATHTOF(data\yepperzz\MOH Warfighter - Old Friend New Foe (Tense).ogg), 1, 1};
 		duration=176;
 		musicClass = QGVAR(Yepperzz);
 	};
@@ -1834,7 +1834,7 @@ class CfgMusic
 	class GVAR(Song_261)
 	{
 		name = "[Plaquer] On the Road (Assault, Instrumental)";
-		sound[] = {QPATHTOF(ARR_2_NOPADDING(data\plaquer\On the Road (Assault, Instrumental).ogg)), 1, 1};
+		sound[] = {QPATHTOF(data\plaquer\On the Road (Assault Instrumental).ogg), 1, 1};
 		duration=473;
 		musicClass = QGVAR(Plaquer);
 	};
