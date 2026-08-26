@@ -1861,33 +1861,47 @@ class CfgMusic
 	};
 	class GVAR(Song_265)
 	{
-		name = "[Plaquer] No More Room In Hell - The Burning Flames that Drive Us";
-		sound[] = {QPATHTOF(data\plaquer\No More Room In Hell - The Burning Flames that Drive Us.ogg), 1, 1};
-		duration=213;
+		name = "[Plaquer] Double Cross 2017 (Assault)";
+		sound[] = {QPATHTOF(data\plaquer\Double Cross 2017 (Assault).ogg), 1, 1};
+		duration=350;
 		musicClass = QGVAR(Plaquer);
 	};
 	class GVAR(Song_266)
+	{
+		name = "[Plaquer] Left in the Cold (Anticipation and Assault)";
+		sound[] = {QPATHTOF(data\plaquer\Left in the Cold (Anticipation and Assault).ogg), 1, 1};
+		duration=365;
+		musicClass = QGVAR(Plaquer);
+	};
+  class GVAR(Song_267)
+  {
+		name = "[Plaquer] No More Room In Hell - The Burning Flames that Drive Us";
+		sound[] = {QPATHTOF(data\plaquer\No More Room In Hell - The Burning Flames that Drive Us.ogg), 1, 1};
+		duration=213;
+    musicClass = QGVAR(Plaquer);
+  };
+	class GVAR(Song_268)
 	{
 		name = "[Plaquer] No More Room In Hell - To Freedom";
 		sound[] = {QPATHTOF(data\plaquer\No More Room In Hell - To Freedom.ogg), 1, 1};
 		duration=296;
 		musicClass = QGVAR(Plaquer);
 	};
-	class GVAR(Song_267)
+	class GVAR(Song_269)
 	{
 		name = "[Plaquer] Outlast - Pyromaniac";
 		sound[] = {QPATHTOF(data\plaquer\Outlast - Pyromaniac.ogg), 1, 1};
 		duration=135;
 		musicClass = QGVAR(Plaquer);
 	};
-	class GVAR(Song_268)
+	class GVAR(Song_270)
 	{
 		name = "[Plaquer] The Outlast Trials - Warrior Mindset";
 		sound[] = {QPATHTOF(data\plaquer\The Outlast Trials - Warrior Mindset.ogg), 1, 1};
 		duration=131;
 		musicClass = QGVAR(Plaquer);
 	};
-	class GVAR(Song_269)
+	class GVAR(Song_271)
 	{
 		name = "[Nomas] HALO 2 - Unyielding";
 		sound[] = {QPATHTOF(data\nomas\HALO 2 - Unyielding.ogg), 1, 1};
